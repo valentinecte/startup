@@ -1,0 +1,27 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/cards.css");
+
+
+body {
+  background-color: #E8AABD;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Helvetica', sans-serif;
+  font-weight:700;
+  color:#C93C67;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 22px;
+  color: #C93C67;
+  font-weight: 400;
+}

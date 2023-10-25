@@ -1,0 +1,8 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  padding-top: 200px;
+  background-size: cover;
+  height: 500px;
+  background-image: url(https://media.fashionnetwork.com/m/d572/4916/2bf5/9953/7b40/a201/a549/f271/efc7/8923/8923.jpg);
+}
